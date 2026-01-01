@@ -10,7 +10,7 @@
   
   <!-- Page d'accueil -->
   <url>
-    <loc>https://Cabane-et-Yourtes-de-la-Vallee-de-l-Ance.github.io/</loc>
+    <loc>https://cabanes-et-yourtes.vercel.app/</loc>
     <lastmod>2025-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -18,42 +18,42 @@
   
   <!-- Pages principales -->
   <url>
-    <loc>https://Cabane-et-Yourtes-de-la-Vallee-de-l-Ance.github.io/hebergement.html</loc>
+    <loc>https://cabanes-et-yourtes.vercel.app/hebergement.html</loc>
     <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   
   <url>
-    <loc>https://Cabane-et-Yourtes-de-la-Vallee-de-l-Ance.github.io/activites.html</loc>
+    <loc>https://cabanes-et-yourtes.vercel.app/activites.html</loc>
     <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://Cabane-et-Yourtes-de-la-Vallee-de-l-Ance.github.io/tarifs.html</loc>
+    <loc>https://cabanes-et-yourtes.vercel.app/tarifs.html</loc>
     <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://Cabane-et-Yourtes-de-la-Vallee-de-l-Ance.github.io/disponibilites.html</loc>
+    <loc>https://cabanes-et-yourtes.vercel.app/disponibilites.html</loc>
     <lastmod>2025-12-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   
   <url>
-    <loc>https://Cabane-et-Yourtes-de-la-Vallee-de-l-Ance.github.io/infos.html</loc>
+    <loc>https://cabanes-et-yourtes.vercel.app/infos.html</loc>
     <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>https://Cabane-et-Yourtes-de-la-Vallee-de-l-Ance.github.io/contact.html</loc>
+    <loc>https://cabanes-et-yourtes.vercel.app/contact.html</loc>
     <lastmod>2025-12-08</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
@@ -61,28 +61,28 @@
   
   <!-- Cabanes -->
   <url>
-    <loc>https://Cabane-et-Yourtes-de-la-Vallee-de-l-Ance.github.io/cabane-fdb.html</loc>
+    <loc>https://cabanes-et-yourtes.vercel.app/cabane-fdb.html</loc>
     <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://Cabane-et-Yourtes-de-la-Vallee-de-l-Ance.github.io/cabane-myrtilles.html</loc>
+    <loc>https://cabanes-et-yourtes.vercel.app/cabane-myrtilles.html</loc>
     <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://Cabane-et-Yourtes-de-la-Vallee-de-l-Ance.github.io/cabane-framboises.html</loc>
+    <loc>https://cabanes-et-yourtes.vercel.app/cabane-framboises.html</loc>
     <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://Cabane-et-Yourtes-de-la-Vallee-de-l-Ance.github.io/cabane-colibris.html</loc>
+    <loc>https://cabanes-et-yourtes.vercel.app/cabane-colibris.html</loc>
     <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -90,14 +90,14 @@
   
   <!-- Yourtes -->
   <url>
-    <loc>https://Cabane-et-Yourtes-de-la-Vallee-de-l-Ance.github.io/yourte-tradi.html</loc>
+    <loc>https://cabanes-et-yourtes.vercel.app/yourte-tradi.html</loc>
     <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://Cabane-et-Yourtes-de-la-Vallee-de-l-Ance.github.io/yourte-bois.html</loc>
+    <loc>https://cabanes-et-yourtes.vercel.app/yourte-bois.html</loc>
     <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -105,7 +105,7 @@
   
   <!-- Autre hébergement -->
   <url>
-    <loc>https://Cabane-et-Yourtes-de-la-Vallee-de-l-Ance.github.io/salle-accueil.html</loc>
+    <loc>https://cabanes-et-yourtes.vercel.app/salle-accueil.html</loc>
     <lastmod>2025-12-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -113,14 +113,14 @@
   
   <!-- Pages légales -->
   <url>
-    <loc>https://Cabane-et-Yourtes-de-la-Vallee-de-l-Ance.github.io/MentionsLegales.html</loc>
+    <loc>https://cabanes-et-yourtes.vercel.app/MentionsLegales.html</loc>
     <lastmod>2025-12-08</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   
   <url>
-    <loc>https://Cabane-et-Yourtes-de-la-Vallee-de-l-Ance.github.io/CGU.html</loc>
+    <loc>https://cabanes-et-yourtes.vercel.app/CGU.html</loc>
     <lastmod>2025-12-08</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>

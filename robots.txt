@@ -1,5 +1,5 @@
 # robots.txt pour Cabanes et Yourtes de la Vallée de l'Ance
-# https://www.cyva.fr
+# https://cabanes-et-yourtes.vercel.app
 
 # Autoriser tous les robots à indexer le site
 User-agent: *
@@ -11,4 +11,4 @@ Disallow: /js/
 Disallow: /partials/
 
 # Sitemap (remplacez VOTRE-DOMAINE.FR par votre vraie URL avant publication)
-Sitemap: https://Cabane-et-Yourtes-de-la-Vallee-de-l-Ance.github.io/sitemap.xml
+Sitemap: https://cabanes-et-yourtes.vercel.app/sitemap.xml
